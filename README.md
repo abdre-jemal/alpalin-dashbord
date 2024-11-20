@@ -1,9 +1,9 @@
-# Starter Responsive Dashboard Layout
+# Responsive Dashboard Design
 
-Starter responsive dashboard layout built with tailwindcss alpinejs
+responsive dashboard design built with tailwindcss alpinejs
 
-[![GitHub license](https://img.shields.io/github/license/Kamona-WD/starter-dashboard-layout)](https://github.com/Kamona-WD/starter-dashboard-layout/blob/main/License.md)
-[![GitHub stars](https://img.shields.io/github/stars/Kamona-WD/starter-dashboard-layout)](https://github.com/Kamona-WD/starter-dashboard-layout/stargazers)
+<!-- [![GitHub license](https://img.shields.io/github/license/Kamona-WD/starter-dashboard-layout)](https://github.com/Kamona-WD/starter-dashboard-layout/blob/main/License.md)
+[![GitHub stars](https://img.shields.io/github/stars/Kamona-WD/starter-dashboard-layout)](https://github.com/Kamona-WD/starter-dashboard-layout/stargazers) -->
 
 ### [See live](https://kamona-wd.github.io/starter-dashboard-layout/)
 
